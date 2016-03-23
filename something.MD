@@ -1,10 +1,10 @@
 
 Geo-code
 My scratchpad for geo-related coding and glacier research
-About Blog Research Publications Coding Links Courses
+Coding Links Courses
 Committing Changes
 
-Let’s take a look again at the output of git status.
+Let’s now take a look again at the output of git status.
 
 # On branch master
 #
@@ -15,14 +15,14 @@ Let’s take a look again at the output of git status.
 #
 #	new file:   README.MD
 #
-Note here the line that says Changes to be committed. This line indicates that Git knows that something has changed in the directory, but Git hasn’t yet made a record of this change. This change is still considered to be temporary, and as such, has not yet been recorded.
+Note here that the line that says Changes to be committed. This line indicates that Git knows that something has changed in the directory, but Git hasn’t yet made a record of this change. This change is still considered to be temporary, and as such, has not yet been recorded.
 
 Committing is the way to tell Git that this change should be recorded. Every time you commit a change, you record a new version of your directory. Git will allow you to move backwards and forwards between different committed versions, thereby allowing you to see how things have changed.
 
 To commit the change, type the command
 
 git commit -a
-This will open up your text editor (e.g. nano if you set that earlier), and will place into the text editor the text
+This will open your text editor (e.g. nano if you set that earlier), and will place into the text editor the text
 
 
 # Please enter the commit message for your changes. Lines starting
