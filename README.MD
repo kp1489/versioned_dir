@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# Hello Brilliant GitHub
-=======
-# Hello Useful GitHub
->>>>>>> d5b5ce032fe066df668c12ce5bee4f2e92996e54
+
+# Hello Brilliant, Useful GitHub
+
 
 This is a README.MD file that will be used to describe this
 repository on GitHub
